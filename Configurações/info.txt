@@ -1,0 +1,3 @@
+database name: blank
+user: admin
+pass: OxUUOrYb7F$Nr3^5vp
